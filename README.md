@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### Clone the repository
 
-git clone https://github.com/yourusername/idps.git
+git clone [https://github.com/Indranil1105/IDPS-Project.git](https://github.com/Indranil1105/IDPS-Project.git)
 cd idps
 
 ### Install dependencies
